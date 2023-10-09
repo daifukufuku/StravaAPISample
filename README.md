@@ -6,7 +6,10 @@ This guide provides instructions and sample code for fetching your activity data
 Python 3.6 or newer
 
 ## Modules
+
+```
 pip install requests
+```
 
 ## Preparation
 First, confirm your client id and secret from the following page:
